@@ -1,0 +1,7 @@
+<p>Physics - <?php echo $fetch['physics']?></p>
+		<p>Chemistr - <?php echo $fetch['chemistry']?></p>
+		<p><?php echo $fetch['stream']?> - <?php echo $fetch['science']?></p>
+		<h1> <?php echo $fetch['zscr']?> </h1>
+
+
+        <a href="get_blog.php?id=<?php echo $fetch['blog_id']?>"><h4><?php echo $fetch['Name']?></h4></a>

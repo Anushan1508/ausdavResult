@@ -1,0 +1,76 @@
+[20-Dec-2021 22:49:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:49:14 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:53:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:53:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:55:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:55:42 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:55:48 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:55:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:55:51 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:56:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 22:56:28 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:44:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:44:31 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:23 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:23 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:26 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:45 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:45 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:47 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:47 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:49 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:45:51 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:47:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:47:48 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:50:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:50:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:50:07 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:50:07 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:55:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:55:01 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:55:03 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:55:03 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:55:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:55:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:55:17 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:55:17 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:56:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:56:14 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:56:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ausdavlk/public_html/conn.php on line 2
+[20-Dec-2021 23:56:16 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:00:12 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+ausdavlk_usr'@'localhost' (using password: YES) in /home/ausdavlk/public_html/conn.php on line 3
+[21-Dec-2021 00:00:12 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 3
+[21-Dec-2021 00:00:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+ausdavlk_usr'@'localhost' (using password: YES) in /home/ausdavlk/public_html/conn.php on line 3
+[21-Dec-2021 00:00:14 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 3
+[21-Dec-2021 00:00:17 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+ausdavlk_usr'@'localhost' (using password: YES) in /home/ausdavlk/public_html/conn.php on line 3
+[21-Dec-2021 00:00:17 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 3
+[21-Dec-2021 00:00:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+ausdavlk_usr'@'localhost' (using password: YES) in /home/ausdavlk/public_html/conn.php on line 3
+[21-Dec-2021 00:00:20 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 3
+[21-Dec-2021 00:01:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ausdavlk_usr'@'localhost' to database 'results' in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:01:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:01:07 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ausdavlk_usr'@'localhost' to database 'results' in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:01:07 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:01:08 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ausdavlk_usr'@'localhost' to database 'results' in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:01:08 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:04:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'usr'@'localhost' (using password: YES) in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:04:20 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:04:22 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'usr'@'localhost' (using password: YES) in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:04:22 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:04:24 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'usr'@'localhost' (using password: YES) in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:04:24 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 2
+[21-Dec-2021 00:14:28 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/search.php on line 10
+[21-Dec-2021 00:17:46 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/search.php on line 10
+[21-Dec-2021 00:17:59 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/search.php on line 10
+[21-Dec-2021 00:21:30 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/search.php on line 10
+[21-Dec-2021 00:46:57 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/search.php on line 10
+[21-Dec-2021 00:47:23 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/search.php on line 10
+[21-Dec-2021 09:55:04 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ausdavlk/public_html/conn.php on line 6
+[21-Dec-2021 09:55:04 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ausdavlk/public_html/conn.php on line 7
